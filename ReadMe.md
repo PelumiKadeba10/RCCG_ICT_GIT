@@ -1,6 +1,5 @@
 
 
-```markdown
 # 🎉 ICT Students Hall of Fame 🎓
 
 Welcome to the **ICT Students Hall of Fame** — a fun and interactive Tkinter-based desktop application that celebrates students in Computer Science and ICT-related disciplines!
