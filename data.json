@@ -5,11 +5,16 @@
     "course-of-study": "Computer Engineering",
     "favourite-Quote": "Work now so you can rest later"
 },
-
 {
     "name": "Oloriojekabe Joseph",
     "school": "Federal University Oye Ekiti",
     "course-of-study": "Computer Engineering",
     "favourite-Quote": "Believe in yourself"
-}    
-]
+},
+{
+    "name": "Udoh Ukaraobong Levi",
+    "school": "University of Lagos",
+    "course-of-study": "Systems Engineering",
+    "favourite-Quote": "The future belongs to those who believe in the beauty of their dreams."
+}
+
