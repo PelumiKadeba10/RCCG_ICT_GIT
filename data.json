@@ -1,14 +1,62 @@
 [
-{
+  {
     "name": "Kadeba Oluwapelumi",
     "school": "Covenant University",
     "course-of-study": "Computer Engineering",
     "favourite-Quote": "Work now so you can rest later"
-},
-{
-  "name": "Olatunji Timileyin",
-  "school": "Lagos State University (LASU)",
-  "course-of-study": "Computer Science",
-  "favourite-Quote": "The future belongs to those who believe in the beauty of their dreams."
-}
+  },
+  {
+    "name": "Mcfadipe Ezekiel",
+    "school": "Universty of Ilorin",
+    "course-of-study": "Computer Science",
+    "favourite-Quote": "I can do ALL things through Christ who strengthens me"
+  },
+  {
+    "name": "Oloriojekabe Joseph",
+    "school": "Federal University Oye Ekiti",
+    "course-of-study": "Computer Engineering",
+    "favourite-Quote": "Believe in yourself"
+  },
+  {
+    "name": "Udoh Ukaraobong Levi",
+    "school": "University of Lagos",
+    "course-of-study": "Systems Engineering",
+    "favourite-Quote": "The future belongs to those who believe in the beauty of their dreams."
+  },
+  {
+    "name": "Ajibola Praise Oluwadamilola",
+    "school": "Redeemer's University",
+    "course-of-study": "Computer Science",
+    "favourite-Quote": "God abeg."
+  },
+  {
+    "name": "Dumedah Joan",
+    "school": "University of Ilorin",
+    "course-of-study": "Computer Science",
+    "favourite-Quote": "Everything is possible!."
+  },
+  {
+    "name": "Aluko Adedeji",
+    "school": "Mountain top university",
+    "course-of-study": "Computer Science",
+    "favourite-Quote": "In consistency lies power"
+  },
+  {
+    "name": "Sokoya Israel",
+    "school": "Babcock university",
+    "course-of-study": "Computer Science",
+    "favourite-Quote": "No motivation today, if you want to give up, please give up"
+  },
+  {
+    "name": "Ewodage Preacher",
+    "school": "Lagos State University",
+    "course-of-study": "Computer Science",
+    "favourite-Quote": "......."
+  },
+  {
+    "name": "Adinoyi Faithful",
+    "school": "University of Ilorin",
+    "course-of-study": "Information Technology",
+    "favourite-Quote": "In God we trust"
+  }
 ]

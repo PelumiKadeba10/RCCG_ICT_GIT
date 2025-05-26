@@ -17,8 +17,8 @@ Welcome to the **ICT Students Hall of Fame** — a fun and interactive Tkinter-b
 
 **Installation:**
 ```bash
-git clone https://github.com/your-username/ict-students-hall-of-fame.git
-cd ict-students-hall-of-fame
+git clone https://github.com/your-username/RCCG_ICT_GIT.git
+cd RCCG_ICT_GIT
 python main.py
 ```
 
@@ -42,7 +42,7 @@ Add your details to `data.json` following this format:
 1. **Fork** the repository
 
 2. **Clone** your fork:
-git clone https://github.com/your-username/ict-students-hall-of-fame.git
+git clone https://github.com/your-username/RCCG_ICT_GIT.git
 
 3. Create a **new branch**:
 git checkout -b add-your-profile
